@@ -26,3 +26,12 @@ In the meantime, the program will also generate a log file so it will keep track
 
 
 
+## Usage
+
+1. **PaserTXTidy.py**
+
+   Supporting file. Tidying the data.
+
+2. **parserGUI.py**
+
+   Main GUI file. Run this file to get the access to the GUI window and tidy the data easily.
